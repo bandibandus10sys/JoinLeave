@@ -1,0 +1,7 @@
+name: Joinleave
+version: '1.0'
+main: hu.bandibandus10.joinleavee.Main
+api-version: '1.18'
+load: STARTUP
+authors: [ bandibandus10 ]
+description: titkos tutti juice 
