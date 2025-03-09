@@ -12,7 +12,7 @@ public final class Main extends JavaPlugin implements Listener {
     @Override
     public void onEnable() {
         getServer().getPluginManager().registerEvents(this, this);
-        System.out.println("JOINLEAVE --> Made by github.com/bandibandus10 OPEN SOURCE!");
+        System.out.println("JOINLEAVE --> Made by github.com/bandibandus10sys OPEN SOURCE!");
         System.out.println("JOINLEAVE --> Version:" + getDescription().getVersion());
 
     }
